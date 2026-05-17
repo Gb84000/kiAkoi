@@ -88,8 +88,8 @@ Concernant les "Membres", leurs informations personnelles et leurs niveaux d'acc
 |            | "Gold"  | Gold card, accès prioritaire                                                                                                                                                                        |
 | stars      |   "*"   | Evaluation (1 à 5 étoiles)                                                                                                                                                                          |  |
 | adresse    |         | Adresse... Ville... Téléphone... Pays                                                                                                                                                               |
-| date       |         | Date d'inscription                                                                                                                                                                                  |  |
-| reset_date |         | Date de désinscription                                                                                                                                                                              |
+| date_in       |         | Date d'inscription                                                                                                                                                                                  |  |
+| date_off |         | Date de désinscription                                                                                                                                                                              |
 
 
 ## Les "Catégories" : A suivre...
