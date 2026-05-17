@@ -4,7 +4,7 @@ Après analyse, il me semble plus simple de démarrer sur une application **"fro
 **Il sera fait appel aux agents I.A. tels que "Claude", "Cursor", "v0", "Copilot" et autres... afin de tester l'opportunité, l'efficacité et la pertinence de ces nouveaux outils...**
 
 Schématiquement, **kiAkoi_2026** est  une plateforme de e-commerce, comparable à un "MarketPlace", mais accessible aux particuliers et aux professionnels, tout aussi bien pour la partie "Acheteur" que pour la partie "Vendeur". 
-- Des particularités et services annexes <KK/> viendront se greffer au fur et à mesure de l'avancement du projet... Ils ne sont pas divulgués pour le moment. Merci de votre compréhension.
+- **_Des particularités et services annexes <KK/> viendront se greffer au fur et à mesure de l'avancement du projet... Ils ne sont pas divulgués pour le moment. Merci de votre compréhension._**
 
 **_L’application sera développée en localhost, puis déployée sur Internet via un hébergement VPS._**
 
@@ -26,7 +26,6 @@ Schématiquement, **kiAkoi_2026** est  une plateforme de e-commerce, comparable 
 - Une page d'accueil est conçue spécifiquement pour décrire visuellement les spécificités de la plateforme kiAkoi
 - **"kiAkoi, la plateforme d'achat / vente"** est le titre (provisoire) du site Internet.
 - Les services proposés par kiAkoi seront gratuits pour les particuliers. Ils seront <KK/> tarifés pour les professionnels.
-
 
 ## Architecture
 ### kiAkoi comporte deux parties distinctes mais associées : 
@@ -94,5 +93,7 @@ Concernant les "Membres", leurs informations personnelles et leurs niveaux d'acc
 
 
 ## Les "Catégories" : A suivre...
+
+## Le moteur de recherche par mots-clés...
 
 **Ce document est la version 1.0.0.  Si ce projet 2026 vous interesse, ainsi que son évolution au fil des mois, merci de vous faire connaître... gerald.bayart@gmail.com**
